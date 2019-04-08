@@ -1,10 +1,13 @@
 # qijin-tech-plan
 
+注：
 
+* 完成用 ✅ 标记
+* 未完成用 ❌ 标记
 
 2019年第n周 | [michealyang](https://github.com/) | xxx
 ----- | ----- | -----
-Plan | *  |
+Plan |  |
 15 | asdfds |
 16 | xxx | 
 17 | xxx | 
