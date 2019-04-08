@@ -1,4 +1,4 @@
-# qijin-tech-plan
+# 每周计划记录
 
 注：
 
