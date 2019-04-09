@@ -22,7 +22,7 @@
 
 ## plan
 
-### michealyang
+### [michealyang](https://github.com/)
 
 2019年第15周  ~  2019年第xx周
 
@@ -32,7 +32,7 @@
 * 每周英语听力练习和阅读(听力: 喜马拉雅10节课。 阅读: 图书《Kubernetes Up Running》)
 * 每周读书笔记(《增长黑客》)
 
-### 二广
+### [fireagainsmile](https://github.com/fireagainsmile)
 
 2019年第15周 ~ 2019年第18周 (短期计划，根据执行情况更改)
 
