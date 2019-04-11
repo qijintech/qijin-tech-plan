@@ -22,7 +22,7 @@
 
 ## plan
 
-### [michealyang](https://github.com/)
+### michealyang
 
 2019年第15周  ~  2019年第xx周
 
@@ -32,11 +32,12 @@
 * 每周英语听力练习和阅读(听力: 喜马拉雅10节课。 阅读: 图书《Kubernetes Up Running》)
 * 每周读书笔记(《增长黑客》)
 
-### [fireagainsmile](https://github.com/fireagainsmile)
+### 二广
 
 2019年第15周 ~ 2019年第18周 (短期计划，根据执行情况更改)
 
 * 每周leetcode至少达到7分
 * 每周至少跑步两次
-* 每天俯卧撑 5 X 10+
+* 每周消化理解一篇英文文档
 * 控制游戏和视频时间在 7h/周 
+* 两篇区块链文章
