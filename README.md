@@ -3,3 +3,7 @@
 - [ ] [Constants](https://blog.golang.org/constants) 
 - [ ] [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 - [ ] [The Go Blog](https://blog.golang.org/index)
+- [ ] [Using Go Modules](https://blog.golang.org/using-go-modules)
+- [ ] [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
+- [ ] [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
+- [ ] [Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
